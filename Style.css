@@ -1,0 +1,25 @@
+#nav{
+    padding: 0.5rem 3rem 1rem 3rem;
+    
+}
+#nav .nav-item a{
+    color: rgb(164, 164, 164);
+}
+.carousel-inner{
+    height: 80vh;
+}
+.carousel-item{
+    filter: brightness(0.5);
+}
+form .btn-form{
+    background-color: rgb(140, 214, 75); 
+    border: none; 
+}
+footer #nav-foot{
+    background-color: rgb(19, 78, 102);
+    
+}
+#nav-foot li a{
+    color: white; 
+}
+
